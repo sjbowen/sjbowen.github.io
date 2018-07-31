@@ -15,7 +15,7 @@ body {
 h1 { font-size: 1.4em; }
 h1 { font-size: 1.2em; }
 
-h1, h2 {
+h1, h2, strong {
 	font-weight: bold;
 }
 
