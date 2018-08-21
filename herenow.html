@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>INHABITANTS</title>
+	<style>
+		body {
+			margin: 0;
+			overflow: hidden;
+		}
+
+		:link {
+			color: #FFF;
+		}
+
+		:visited {
+			color: #FFF;
+		}
+
+		#panel {
+			position: fixed;
+			left: 20px;
+			top: 20px;
+			z-index: 99997;
+		}
+
+		#people {
+			position: fixed;
+			right: 20px;
+			top: 20px;
+			z-index: 99999;
+		}
+
+		#heading {
+			font-family: monospace;
+			color: #FFF;
+			font-size: 1.4em;
+			z-index: 99998;
+		}
+
+		.buttons {
+			font-family: monospace;
+			color: #FFF;
+			font-size: 1em;
+		}
+
+		canvas {
+	    position: inherit;
+			bottom: 0px;
+  	}
+
+		#cover {
+			position: fixed;
+			top:0px;
+			left:0px;
+			color: white;
+			background-color: #000;
+			width: 100%;
+    	height: 100%;
+		}
+
+		#readout {
+			position: fixed;
+			right: 20px;
+			bottom: 40px;
+		}
+
+		#readoutText {
+			position: fixed;
+			right: 20px;
+			bottom: 60px;
+			font-size: 1em;
+			color: #a8a8a8;
+			font-family: monospace;
+		}
+
+		#leftLabel {
+			position: fixed;
+			right: 570px;
+			bottom: 15px;
+			font-size: 1em;
+			color: #a8a8a8;
+			font-family: monospace;
+		}
+
+		#rightLabel {
+			position: fixed;
+			right: 40px;
+			bottom: 15px;
+			font-size: 1em;
+			color: #a8a8a8;
+			font-family: monospace;
+		}
+	</style>
+</head>
+<body>
+	<div id="threeHolder"></div>
+	<div id="cover"></div>
+
+	<div id="readoutText"></div>
+	<div id="leftLabel">THEN</div>
+	<div id="rightLabel">NOW</div>
+
+	<canvas id="readout" width="600" height="5"></canvas>
+
+	<script src="js/three.bundle.js"></script>
+
+	<div id="panel">
+		<div id="heading">DEBUG MODEL SELECT:</div>
+		<hr>
+		<div class="buttons">
+			<a href="#" onclick="showModel('auroch');"><p>Auroch Skull</p></a>
+			<a href="#" onclick="showModel('coal_measures_fossil_plant');"><p>Coal Fossil</p></a>
+			<a href="#" onclick="showModel('egg');"><p>Egg</p></a>
+			<a href="#" onclick="showModel('decorative_tusk');"><p>Tusk</p></a>
+			<a href="#" onclick="showModel('fish_fossil');"><p>Fish Fossil</p></a>
+			<a href="#" onclick="showModel('polished_axe_stone_1');"><p>Axe Stone</p></a>
+			<a href="#" onclick="showModel('roman_pipe');"><p>Roman Pipe</p></a>
+			<a href="#" onclick="showModel('small_shell');"><p>Small Shell</p></a>
+		</div>
+	</div>
+
+	<div id="people">
+		<hr>
+			<div class="buttons">
+				<div id="heading">SIMULATE PEOPLE:</div>
+				<a href="#" onclick="triggerPeople(true);"><p>PEOPLE</p></a>
+				<a href="#" onclick="triggerPeople(false);"><p>NO PEOPLE</p></a>
+				<hr>
+				<div id="heading">LIVE CAMERA:</div>
+				<a href="#" onclick="goLive();"><p>CAMERA ON</p></a>
+				<a href="#" onclick="stopLive();"><p>CAMERA OFF</p></a>
+			</div>
+	</div>
+</body>
+</html>
