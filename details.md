@@ -1,4 +1,4 @@
-###Here and Now: Objects and Datasets
+###Here and Now: Objects and Datasets###
 The **here and now** digital artwork combines artefacts from the Great North Museum: Hancock and elsewhere, with datasets about our environment to tell stories of how we are changing our world and our world is changing us.
 
 The artwork currently features the following objects and datasets:
