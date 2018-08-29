@@ -7,4 +7,4 @@ There is also now an [online version of the artwork](herenow.html).
 
 Also see further [information about the objects and datasets in the artwork](details.html).
 
-The digital artwork was devised and built by [Dan Hett](https://danhett.com/) with content and additional design by [Simon Bowen](http://www.simon-bowen.com/), and additional coding by Martin O'Leary.
+The digital artwork was devised and built by [Dan Hett](https://danhett.com/) with content and additional design by [Simon Bowen](http://www.simon-bowen.com/), and additional coding by [Martin O'Leary](https://github.com/mewo2).
