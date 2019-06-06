@@ -1,10 +1,16 @@
-# here and now
-This project is a collaboration between [Open Lab](https://openlab.ncl.ac.uk/) and the [School of Engineering](https://www.ncl.ac.uk/engineering/) at Newcastle University, the [Tyndall Centre for Climate Change Research](http://www.tyndall.ac.uk/) at Manchester University, [FutureEverything](http://futureeverything.org/), and the <a href="https://greatnorthmuseum.org.uk/">Great North Museum: Hancock</a>.
+# here and now change .net
+Interactive, immersive, digital artworks for public conversations on climate change.
 
-A digital artwork combines artefacts from the Great North Museum: Hancock and elsewhere, with data about our environment to tell stories of how **we are changing our world** and **our world is changing us**. We created digital 3D models of the objects using [photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) and, for each object, we asked people from the museum and elsewhere to answer the questions “what is this?” and “what does it tell us about environmental change?” The digital artwork displays the 3D models, whose visability changes according to a particular set of data, whilst answers to the two questions play. The artwork was designed to be experienced at a large scale, and was shown over three non-consecutive days in Hall 3 at the Great North Museum: Hancock during the [Great Exhibition of the North](https://getnorth2018.com/).
+##In 2019:
+![making marks](img/makingmarkspromo.jpg)
 
-There is also now an [online version of the artwork](herenow.html).
+“Our world has always changed. Inside caves like this one at Whitburn on the North East coast, we find the marks of how the world used to be. Once, Whitburn lay at the bottom of a shallow sea. Tropical fish and plants lived and died here for millions of years, leaving their imprints in the seabed. Much later, the sea dried up and ice ages came. People moved into the new land, carving deerhorn into harpoons for hunting. As the world thawed, melting ice flooded the land and people and animals fled. Seabirds like the Great Auk lost their sources of food, unable to adapt to a new world. Today, we are changing our world, but much faster and in many different ways. The caves at Whitburn were quarried away a century ago. We have a choice now, of how we leave our mark on our world…”
 
-Also see further [information about the objects and datasets in the artwork](details.html).
+**making marks** is a digital artwork that presents visual and sonic marks of a changing world. Some of these marks are objects you can find in the Great North Museum: Hancock’s collection, including fish and plant fossils, animal bones from the Whitburn sea caves, taxidermy of the Great Auk, and the Whitburn harpoon. **making marks** asks you to continue the story that these marks begin of a climate-changed World, through drawing your own mark which then becomes part of the growing artwork.
 
-The digital artwork was devised and built by [Dan Hett](https://danhett.com/) with content and additional design by [Simon Bowen](http://www.simon-bowen.com/), and additional coding by [Martin O'Leary](https://github.com/mewo2).
+**making marks** is a collaboration between [Martin O’Leary](https://www.patreon.com/mewo2), [Simon Bowen](http://www.simon-bowen.com/), and [David de la Haye](http://daviddelahaye.co.uk/) with contributions from [@SarahLMander](https://twitter.com/SarahLMander), [@AlistairCFord](https://twitter.com/AlistairCFord), [@jocwhit](https://twitter.com/JoCWhit) and artwork visitors. 
+
+**making marks** is supported by the [Great North Museum: Hancock](https://greatnorthmuseum.org.uk/), [Open Lab](https://openlab.ncl.ac.uk/) and the [Tyndall Centre for Climate Change Research](http://www.tyndall.ac.uk/).
+
+##In 2018:
+[here and now](hereandnow.html)
