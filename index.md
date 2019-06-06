@@ -8,6 +8,8 @@ Interactive, immersive, digital artworks for public conversations on climate cha
 
 **making marks** is a digital artwork that presents visual and sonic marks of a changing world. Some of these marks are objects you can find in the Great North Museum: Hancock’s collection, including fish and plant fossils, animal bones from the Whitburn sea caves, taxidermy of the Great Auk, and the Whitburn harpoon. **making marks** asks you to continue the story that these marks begin of a climate-changed World, through drawing your own mark which then becomes part of the growing artwork.
 
+On show during the Great North Museum: Hancock's "Great North Nights" on 7th June, 5th July, 26th July, 6th September, 27th September, and 6th October, as part of the accompanying programme to [Dippy on Tour](https://greatnorthmuseum.org.uk/whats-on/dippy-on-tour).
+
 **making marks** is a collaboration between [Martin O’Leary](https://www.patreon.com/mewo2), [Simon Bowen](http://www.simon-bowen.com/), and [David de la Haye](http://daviddelahaye.co.uk/) with contributions from [@SarahLMander](https://twitter.com/SarahLMander), [@AlistairCFord](https://twitter.com/AlistairCFord), [@jocwhit](https://twitter.com/JoCWhit) and artwork visitors. 
 
 **making marks** is supported by the [Great North Museum: Hancock](https://greatnorthmuseum.org.uk/), [Open Lab](https://openlab.ncl.ac.uk/) and the [Tyndall Centre for Climate Change Research](http://www.tyndall.ac.uk/).
